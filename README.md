@@ -2,6 +2,7 @@
 
 ## Mentoría: Coronavirus en Argentina y el mundo
 
+### A cargo de María Lucía Pappaterra
 
 Repositorio de código para la mentoría **Coronavirus en Argentina y el mundo** perteneciente a la **Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones**.
 
