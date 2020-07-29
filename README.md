@@ -19,3 +19,8 @@ Repositorio de código para la mentoría **Coronavirus en Argentina y el mundo**
 
 - **Breve informe**: https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%201/Entrega1_mentoria_coronavirus_arg.pdf
 - **Notebook**:  https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%201/practico_1_analisis_y_visualizacion.ipynb
+------------
+### Entrega práctico 2: Análisis y Curación
+
+- **Breve informe**: https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%202/Informe_2.pdf
+- **Notebook**:  https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%202/Analisis_Exploratorio_y_Curacion_de_Datos.ipynb
