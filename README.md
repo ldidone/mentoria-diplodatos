@@ -26,6 +26,6 @@ Repositorio de código para la mentoría **Coronavirus en Argentina y el mundo**
 ------------
 ## Videos mentoría:
 
-- Parte 1: https://drive.google.com/file/d/1w6HOZdgCdtT7yxg_aJFE0B8AAgAHsiC-/view?usp=sharing
-- Parte 2: https://drive.google.com/file/d/1-uwRdaAtSh0EDJJ0fGDVFs71Q5Ha8pV9/view?usp=sharing
-- Parte 3: https://drive.google.com/file/d/1Z_tNujZraOrDQVtPQP6enprkI042fto0/view?usp=sharing
+- **Parte 1:** https://drive.google.com/file/d/1w6HOZdgCdtT7yxg_aJFE0B8AAgAHsiC-/view?usp=sharing
+- **Parte 2:** https://drive.google.com/file/d/1-uwRdaAtSh0EDJJ0fGDVFs71Q5Ha8pV9/view?usp=sharing
+- **Parte 3:** https://drive.google.com/file/d/1Z_tNujZraOrDQVtPQP6enprkI042fto0/view?usp=sharing
