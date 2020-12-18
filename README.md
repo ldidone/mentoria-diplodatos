@@ -29,6 +29,16 @@ Repositorio de código para la mentoría **Coronavirus en Argentina y el mundo**
 - **Breve informe**: https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%203/Informe_3.pdf
 - **Notebook**:  https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%203/Introduccion_al_Machine_Learning.ipynb
 ------------
+### Entrega práctico 4: Aprendizaje Supervisado
+
+- **Breve informe**: https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Informe_4.pdf
+- **Notebooks**: 
+	- https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Limpieza_Preprocesado_Covid19Casos.ipynb
+	- https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Prediccion_COVID19_Clasificacion_NN.ipynb
+	- https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Prediccion_COVID19_Fallecido_NN_WOB.ipynb
+	- https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Prediccion_COVID19_Fallecido_NN_WIB.ipynb
+	- https://github.com/ldidone/mentoria-diplodatos/blob/master/Practico%204/Prediccion_COVID19_Fallecido_RF.ipynb
+------------
 ## Videos mentoría:
 
 - **Parte 1:** https://drive.google.com/file/d/1w6HOZdgCdtT7yxg_aJFE0B8AAgAHsiC-/view?usp=sharing
